@@ -1,10 +1,10 @@
-# 🚀 User Management System
+# User Management System
 
 A premium, full-stack registration system built with **React**, **Express**, and **MongoDB**. This application features a modern dark-mode UI with glassmorphism effects and real-time user updates.
 
 ---
 
-## 🛠️ Technology Stack
+# Technology Stack
 
 - **Frontend**: React (Vite), Framer Motion (Animations), Lucide React (Icons), Axios (API calls).
 - **Backend**: Node.js, Express.js.
@@ -13,7 +13,7 @@ A premium, full-stack registration system built with **React**, **Express**, and
 
 ---
 
-## 📂 Project Structure
+# Project Structure
 
 ```text
 react-page/
@@ -32,7 +32,7 @@ react-page/
 
 ---
 
-## 🏃 How to Run the Project
+## How to Run the Project
 
 ### 1. Prerequisites
 - Ensure you have [Node.js](https://nodejs.org/) installed.
@@ -56,7 +56,7 @@ npm run dev
 
 ---
 
-## 🗄️ How to Access and Configure Database
+## How to Access and Configure Database
 
 ### 1. Configuration
 The application uses an `.env` file located in the `/server` directory to manage database connections.
@@ -83,7 +83,7 @@ Users are stored with the following fields:
 
 ---
 
-## ✨ Features
+## eatures
 - **Modern UI**: Glassy dark theme with smooth hover effects.
 - **Form Validation**: Instant feedback during registration.
 - **Real-time Refresh**: The user list updates automatically upon successful registration.
